@@ -1,1 +1,1 @@
-# MATLAB coding project exercises for fun
+# MATLAB coding projects and self-exercises
